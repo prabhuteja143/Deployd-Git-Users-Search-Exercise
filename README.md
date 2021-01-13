@@ -5,11 +5,11 @@ This application is built with ReactJS, Html, CSS, Javascript and GIT REST API's
 
 # Project Screen Shot(s) in Desktop View:
 
-![Getting Started](./images/Screenshot1.jpg)
-![Getting Started](./images/Screenshot2.jpg)
-![Getting Started](./images/Screenshot3.jpg)
-![Getting Started](./images/Screenshot4.jpg)
-![Getting Started](./images/Screenshot5-noUserFound.jpg)
+![Getting Started](.src/images/Screenshot1.jpg)
+![Getting Started](.src/images/Screenshot2.jpg)
+![Getting Started](.src/images/Screenshot3.jpg)
+![Getting Started](.src/images/Screenshot4.jpg)
+![Getting Started](.src/images/Screenshot5-noUserFound.jpg)
 
 # Project Screen Shot(s) in Mobile View:
 
