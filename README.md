@@ -5,19 +5,19 @@ This application is built with ReactJS, Html, CSS, Javascript and GIT REST API's
 
 # Project Screen Shot(s) in Desktop View:
 
-![Getting Started](.src/images/Screenshot1.jpg)
-![Getting Started](.src/images/Screenshot2.jpg)
-![Getting Started](.src/images/Screenshot3.jpg)
-![Getting Started](.src/images/Screenshot4.jpg)
-![Getting Started](.src/images/Screenshot5-noUserFound.jpg)
+![alt-text](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/Screenshot1.jpg)
+![alt-text](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/Screenshot2.jpg)
+![alt-text](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/Screenshot3.jpg)
+![alt-text](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/Screenshot4.jpg)
+![alt-text](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/Screenshot5-noUserFound.jpg)
 
 # Project Screen Shot(s) in Mobile View:
 
-![Getting Started](./images/localhost_3000_(iPhone 6_7_8)(1).png)
-![Getting Started](./images/localhost_3000_(iPhone 6_7_8)(2).png)
-![Getting Started](./images/localhost_3000_(iPhone 6_7_8)(3).png)
-![Getting Started](./images/localhost_3000_(iPhone 6_7_8)(4).png)
-![Getting Started](./images/localhost_3000_(iPhone 6_7_8)(5).png)
+![Getting Started](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(1).png)
+![Getting Started](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(2).png)
+![Getting Started](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(3).png)
+![Getting Started](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(4).png)
+![Getting Started](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(5).png)
 
 ## Installation and Setup Instructions
 
