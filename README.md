@@ -1,9 +1,9 @@
-# Github user search API
+# Github user search API + React APP
 
 Developed the REACT Application by using the Github REST API, And displaying the Github users information by searching their names.
 This application is built with ReactJS, Html, CSS, Javascript and GIT REST API's.
 
-# Project Screen Shot(s) in Destop View:
+# Project Screen Shot(s) in Desktop View:
 
 ![Getting Started](./images/Screenshot1.jpg)
 ![Getting Started](./images/Screenshot2.jpg)
