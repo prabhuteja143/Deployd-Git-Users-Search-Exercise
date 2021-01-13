@@ -1,38 +1,110 @@
-.App {
+@import 
+url(https://fonts.googleapis.com/css?family=Open+Sans);
+.App{
+ background-color: #f8f8f8;
+}
+.whole-container{
+  max-width: 70%;
+  margin: 0 auto;
+}
+.infinite-scroll-component{
+  height: calc(100vh - 355px) !important;
+}
+
+#header{
+  background-color: rgb(0, 0, 181);
+  padding: 0.5rem 1rem;
+}
+#header h1{
+  color: #fff;
+}
+.git-logo{
+  max-width: 70%;
+  text-align: center;
+  position: absolute;
+  top: 55%;
+  transform: translateY(-50%);
+}
+.git-logo img{
+  max-width:15%;
+}
+.git-logo p{
+  font-size: 1.25rem;
+    margin: 1rem;
+    font-weight: 600;
+}
+
+#search-bar{
+  position: relative;
+  margin:1rem;
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#search-bar input{
+  border: 3px solid rgb(0, 0, 181);
+  border-radius: 5px 0px 0px 5px;
+  padding: 6px 12px;
+  outline: none;
+  color: rgb(0, 0, 206);
+  width: 50%;
+  font-size: 20px;
+}
+#search-bar input:focus{
+  color: rgb(0, 0, 181);
+}
+.searchButton{
+  position: absolute;
+  border: none;
+  background: rgb(0, 0, 181);
+  text-align: center;
+  color: #fff;
+  border-radius: 0px 5px 5px 0px;
+  cursor: pointer;
+  font-size: 20px;
+  padding: 9px 12px;
+}
+.searchButton i{
+  font-size: 20px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.searchButton:focus{
+  border: none;
+}
+
+@media only screen and (max-width: 650px) {
+  #header {
+    background-color: rgb(0, 0, 181);
+    padding: 0.5rem 1rem;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.25);
+}
+  #search-bar input{
+    width: calc(100vw - 80px);
+    font-size: 16px;
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  .git-logo img{
+    max-width:55%;
   }
-  to {
-    transform: rotate(360deg);
+  .git-logo{
+    max-width: 100%;
   }
+  #search-bar {
+    position: relative;
+    margin: 0.75rem 1rem;
+    text-align: left;
+}
+.whole-container{
+  max-width: 100%;
+  margin: 0 auto;
+  margin-top: 80px;
+}
+.infinite-scroll-component{
+  height: auto !important;
+}
+.searchButton{
+    font-size: 20px;
+  padding: 6px 9px;
+}
 }
