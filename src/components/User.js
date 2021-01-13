@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import './UserCard.css'
 import UserData from './UserData'
 class User extends React.Component {
