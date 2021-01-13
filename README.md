@@ -13,11 +13,11 @@ This application is built with ReactJS, Html, CSS, Javascript and GIT REST API's
 
 # Project Screen Shot(s) in Mobile View:
 
-![Getting Started](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(1).png =215x)
-![Getting Started](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(2).png =215x)
-![Getting Started](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(3).png =215x)
-![Getting Started](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(4).png =215x)
-![Getting Started](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(5).png =215x)
+![Getting Started](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(1).png =215x438)
+![Getting Started](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(2).png =215x438)
+![Getting Started](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(3).png =215x438)
+![Getting Started](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(4).png =215x438)
+![Getting Started](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(5).png =215x438)
 
 ## Installation and Setup Instructions
 
