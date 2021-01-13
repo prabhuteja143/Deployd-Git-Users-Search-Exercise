@@ -25,8 +25,6 @@ This application is built with ReactJS, Html, CSS, Javascript and GIT REST API's
 
 ## Installation and Setup Instructions
 
-## Installation and Setup Instructions
-
 First, Check the `node` and `npm` are installed globally on your machine or not. If its not installed first install `node` and `npm`. Then 
 Clone this repository
 
