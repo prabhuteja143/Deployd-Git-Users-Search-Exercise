@@ -6,9 +6,13 @@ This application is built with ReactJS, Html, CSS, Javascript and GIT REST API's
 # Project Screen Shot(s) in Desktop View:
 
 ![alt-text](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/Screenshot1.jpg)
+
 ![alt-text](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/Screenshot2.jpg)
+
 ![alt-text](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/Screenshot3.jpg)
+
 ![alt-text](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/Screenshot4.jpg)
+
 ![alt-text](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/Screenshot5-noUserFound.jpg)
 
 # Project Screen Shot(s) in Mobile View:
